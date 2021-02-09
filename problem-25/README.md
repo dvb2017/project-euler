@@ -6,7 +6,7 @@
 
 ## Methodology
 
-`n = 2
+```n = 2
 x = 1
 y = 1
 z = 0
@@ -17,7 +17,7 @@ while i < 1000:
   i = len(str(z))
   x = y
   y = z
-print(n,":",z,":",i)`
+print(n,":",z,":",i)```
 
 To start off I will explain what each of the initial variables represents here (this is the first five lines of code).  The 'n' represents the current length of the sequence.  I am initializing the sequence at {1, 1} with the first one represented by 'x' and the second by 'y', and starting at {1, 1} is the reason I initialized the length of the sequence as two.  The 'z' is what will represent the next number in the sequence, and 'i' represents the number of integers in the 'z' value.  
 
