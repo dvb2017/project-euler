@@ -1,6 +1,6 @@
 # Problem 27
 
-## Status: Work-in-Progress
+## Status: Complete
 
 ![problem-27](https://github.com/dvb2017/project-euler/blob/main/problem-27/problem-27.png)
 
@@ -10,4 +10,4 @@
 ## Commentary
 
 
-## Answer: TBD
+## Answer: -59231
