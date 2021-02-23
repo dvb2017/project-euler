@@ -5,9 +5,13 @@
 ![problem-X](https://github.com/dvb2017/project-euler/blob/main/problem-41/problem-41.png)
 
 ## Methodology
-
+steps:
+bounds of problem 
+- divisible by 3
+- create list of numbers
+- looping through
 
 ## Commentary
 
 
-## Answer: TBD
+## Answer: 7652413
