@@ -13,6 +13,9 @@ I have also included a text file containing the template I will use for the READ
 # Table of Contents
 
 ## Work-in-Progress 
+[Problem 52](https://github.com/dvb2017/project-euler/tree/main/problem-52)
+
+[Problem 54](https://github.com/dvb2017/project-euler/tree/main/problem-54)
 
 
 ## Completed
@@ -26,9 +29,6 @@ I have also included a text file containing the template I will use for the READ
 
 [Problem 48](https://github.com/dvb2017/project-euler/tree/main/problem-48)
 
-[Problem 52](https://github.com/dvb2017/project-euler/tree/main/problem-52)
-
-[Problem 54](https://github.com/dvb2017/project-euler/tree/main/problem-54)
 
 
 
