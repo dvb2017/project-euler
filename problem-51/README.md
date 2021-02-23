@@ -1,6 +1,6 @@
 # Problem 51
 
-## Status: Work-in-Progress
+## Status: Complete
 
 ![problem-51](https://github.com/dvb2017/project-euler/blob/main/problem-51/problem-51.png)
 
@@ -10,4 +10,4 @@
 ## Commentary
 
 
-## Answer: TBD
+## Answer: 121313
