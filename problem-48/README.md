@@ -14,6 +14,7 @@ for x in range(1,1001):
 total
 ```
 
+Self powers
 
 ## Commentary
 
