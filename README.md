@@ -13,7 +13,7 @@ I have also included a text file containing the template I will use for the READ
 # Table of Contents
 
 ## Potential Future Problems
-
+[Problem 46](https://github.com/dvb2017/project-euler/tree/main/problem-46)
 
 ## Work-in-Progress 
 [Problem 52](https://github.com/dvb2017/project-euler/tree/main/problem-52)
