@@ -15,13 +15,13 @@ I have also included a text file containing the template I will use for the READ
 ## Potential Future Problems
 [Problem 46](https://github.com/dvb2017/project-euler/tree/main/problem-46)
 
-[Problem 55](https://github.com/dvb2017/project-euler/tree/main/problem-55)
-
 
 ## Work-in-Progress 
 [Problem 52](https://github.com/dvb2017/project-euler/tree/main/problem-52)
 
 [Problem 54](https://github.com/dvb2017/project-euler/tree/main/problem-54)
+
+[Problem 55](https://github.com/dvb2017/project-euler/tree/main/problem-55)
 
 [Problem 76](https://github.com/dvb2017/project-euler/tree/main/problem-76)
 
