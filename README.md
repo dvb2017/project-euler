@@ -18,6 +18,9 @@ I have also included a text file containing the template I will use for the READ
 [Problem 81](https://github.com/dvb2017/project-euler/tree/main/problem-81)
 
 
+[Problem 87](https://github.com/dvb2017/project-euler/tree/main/problem-87)
+
+
 ## Work-in-Progress 
 [Problem 52](https://github.com/dvb2017/project-euler/tree/main/problem-52)
 
